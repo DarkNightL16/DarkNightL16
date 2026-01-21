@@ -12,7 +12,7 @@ Me caracterizo por ser una persona ética, analítica y orientada al aprendizaje
 
 <p align="left"> <a href="mailto:juanflondonob@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://wa.me/573103003738"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/juanflondob/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/DarkNightL16"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
 
-📍 Puerto BOyacá, Boyacá – Colombia
+📍 Puerto Boyacá, Boyacá – Colombia
 
 ### 🚀 Experiencia y Proyectos
 
@@ -55,7 +55,7 @@ TensorFlow (Intermedio)
 
 ### 📜 Certificaciones
 
-#### 🎓 Diplomado en Gestión de Infraestructura de TI aplicada a entornos empresariales (enfoque en seguridad informática) – Universidad del Quindío
+#### Diplomado en Gestión de Infraestructura de TI aplicada a entornos empresariales (enfoque en seguridad informática) – Universidad del Quindío
 
 🔐 Seguridad Digital
 🧩 Gestión de seguridad de infraestructuras empresariales
