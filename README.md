@@ -1,4 +1,4 @@
-👋 #Hola, soy Juan Francisco Londoño Bastidas
+# 👋Hola, soy Juan Francisco Londoño Bastidas
 
 🎓 Ingeniero de Sistemas y Computación – Universidad del Quindío
 💻 Desarrollo de Software | Infraestructura TI | Seguridad de la Información | Automatización
