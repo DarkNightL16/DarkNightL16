@@ -10,7 +10,7 @@ Me caracterizo por ser una persona ética, analítica y orientada al aprendizaje
 
 ### 📬 Contáctame
 
-<p align="left"> <a href="📧 Correo: **juanflondonob@gmail.com**"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://wa.me/573103003738"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/juanflondob/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/DarkNightL16"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
+<p align="left"> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=juanflondonob@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://wa.me/573103003738"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/juanflondob/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/DarkNightL16"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
 
 📍 Puerto Boyacá, Boyacá – Colombia
 
